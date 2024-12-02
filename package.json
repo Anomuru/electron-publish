@@ -1,0 +1,14 @@
+{
+  "name": "shermurodni_izlab",
+  "version": "1.0.0",
+  "description": "Shermurodni koti yonyapti va marshrutka keldi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "null",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
